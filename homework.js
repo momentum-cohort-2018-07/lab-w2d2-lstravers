@@ -12,7 +12,6 @@ function sum (numbers) {
 // 2. Create a function called "average" that takes an array of numbers
 // and returns the average of those numbers.
 
-
 function average (numbers) {
   var total = 0;
   for (var i = 0; i < numbers.length; i++) {
@@ -26,10 +25,15 @@ function average (numbers) {
 // The order they are in does not matter, but no duplicates should be
 // in the returned array, even if they were in the input.
 
+function intersection ([red, white, blue], [one, two, three])
+  for (var i = 0; i < array.length; i++) {
 
+  }
 
 // 4. Create a function called "minimum" that takes an array of numbers and
 // returns the smallest number in that array.
+    function minimum (numbers)
+
 
 // 5. There are many techniques to sort arrays in programming. Your programming
 // language will likely include the ability to do this. We are going to
@@ -43,6 +47,8 @@ function average (numbers) {
 //
 // Create a function called selectionSort that takes an array of numbers and returns
 // a sorted array using the above technique.
+
+    function selectionSort (numbers)
 //
 // Note 1: You do not actually want to delete things from the original array. You
 // should copy it first. To copy an array, use the following code:
